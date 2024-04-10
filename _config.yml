@@ -11,3 +11,8 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+
+gems:
+  jekyll-remote-theme:
+    path: ../..  # Adjust this path if your theme is located elsewhere
