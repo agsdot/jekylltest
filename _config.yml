@@ -16,4 +16,4 @@ plugins:
 
 gems:
   jekyll-remote-theme:
-    #path: ../..  # Adjust this path if your theme is located elsewhere
+    path: ../  # Adjust this path if your theme is located elsewhere
